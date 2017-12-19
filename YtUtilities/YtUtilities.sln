@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YtUtilities.EntryPoint", "YtUtilities.EntryPoint\YtUtilities.EntryPoint.csproj", "{9EB326C5-C65A-4A81-817B-3CFCF4113D1A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YtUtilities.ConsoleTest", "YtUtilities.ConsoleTest\YtUtilities.ConsoleTest.csproj", "{47490A35-A94B-4DB8-AF6A-E84E57A13D5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9EB326C5-C65A-4A81-817B-3CFCF4113D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EB326C5-C65A-4A81-817B-3CFCF4113D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EB326C5-C65A-4A81-817B-3CFCF4113D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47490A35-A94B-4DB8-AF6A-E84E57A13D5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47490A35-A94B-4DB8-AF6A-E84E57A13D5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47490A35-A94B-4DB8-AF6A-E84E57A13D5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47490A35-A94B-4DB8-AF6A-E84E57A13D5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
